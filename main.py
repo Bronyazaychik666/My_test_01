@@ -1,1 +1,1 @@
-print("Hello, GitHub! This is my first PyCharm.")
+print("Hello, GitHub! This is my first PyCharm script.")
